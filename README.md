@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Iparsw</h1>
 
+- 🔭 I’m currently working on [CustomIntents](https://github.com/iparsw/custom-intent)
+- 🌱 I’m currently learning more about deep learning
+- :closed_book: 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iparsw&show_icons=true&locale=en&layout=compac&theme=dark" alt="iparsw" /></p>
 
