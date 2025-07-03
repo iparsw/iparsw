@@ -42,8 +42,9 @@ Second‑year civil engineering student with a passion for math, algorithms, and
   
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iparsw&show_icons=true&locale=en&theme=dark&count_private=true" alt="iparsw" />
   <img src='https://github-readme-stats.vercel.app/api?username=iparsw&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' alt="iparsw" />
+  <img src='https://streak-stats.demolab.com?user=iparsw&theme=vue-dark&hide_border=true' />
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=iparsw&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 </p>
 
 
