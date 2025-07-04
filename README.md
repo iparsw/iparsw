@@ -6,17 +6,26 @@
 
 ---
 
-### 🛠️ Current Projects
+### 🛠️ Current Projects:
+* 📐 [**differintP**](https://github.com/iparsw/differintP):
+  Modern, pure Python library for numerical fractional calculus (differentiation/integration).
+  Features improved performance, broader method coverage, and easier extensibility compared to the original *differint*.
 
-- 🚀 [**P2Ray**](https://github.com/iparsw/P2Ray): A CLI-based V2Ray config manager for power users.  
+* ⚡ [**differintC**](https://github.com/iparsw/differintC):
+  C++-accelerated version of the *differint* library for high-performance fractional calculus in Python.
+  Provides dramatically faster core algorithms with the same easy interface, ideal for heavy-duty scientific or engineering use.
+
+* 🚀 [**P2Ray**](https://github.com/iparsw/P2Ray): A CLI-based V2Ray config manager for power users.
   Automates config management and connection tracking for VLESS nodes.
-- 📊 [**pmath**]() *(coming soon)*: A comprehensive math library for Python—supports:
-  - Scalar, vector, and complex functions
-  - Polar and multivariable curves
-  - Vector‐valued fields and discrete data
-  - Utilities from trig to gamma (built atop NumPy/SciPy or implemented from scratch)
-  - Data manipulation and differentiation/integration tools
-  - 
+  
+* 📊 [**pmath**]() *(coming soon)*: A comprehensive math library for Python—supports:
+
+  * Scalar, vector, and complex functions
+  * Polar and multivariable curves
+  * Vector‐valued fields and discrete data
+  * Utilities from trig to gamma (built atop NumPy/SciPy or implemented from scratch)
+  * Data manipulation and differentiation/integration tools
+
 ---
 
 ### 📂 Older Projects
@@ -30,7 +39,7 @@
 ### 🍴 Forks
 
 - 🔧 [**klipper_tmc_autotune**](https://github.com/iparsw/klipper_tmc_autotune): Dynamic tuning tool for stepper motor drivers (Klipper firmware).
-- 📐 [**differint**](https://github.com/iparsw/differint): Fractional calculus tool for numerical differentiation/integration.
+
 
 ---
 
