@@ -58,3 +58,4 @@ Second‑year civil engineering student with a passion for math, algorithms, and
     <img width=300 src='https://github-readme-stats.vercel.app/api/top-langs/?username=iparsw&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 </p>
 
+[![parsa roshanak profile views](https://u8views.com/api/v1/github/profiles/121400916/views/day-week-month-total-count.svg)](https://u8views.com/github/iparsw)
